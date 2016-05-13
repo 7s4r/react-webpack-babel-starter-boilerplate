@@ -1,4 +1,4 @@
-# Quotatis Website
+# A starter boilerplate for a universal webapp using express, react, webpack & ES6 
 
 ## Requirements
 [Node.js](https://nodejs.org/)
