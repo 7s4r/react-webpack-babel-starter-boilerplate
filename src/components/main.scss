@@ -1,0 +1,22 @@
+@import './common/variables';
+@import './common/colors';
+
+html, body {
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: $grey;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+*, *:before, *:after {
+  box-sizing: border-box;
+  position: relative;
+}
