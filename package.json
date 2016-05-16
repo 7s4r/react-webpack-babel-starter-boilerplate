@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Quotatis/website.git"
+    "url": "git+https://github.com/7s4r/react-webpack-babel-starter-boilerplate.git"
   },
   "author": "Gueorgui AGAPOV",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Quotatis/website/issues"
+    "url": "https://github.com/7s4r/react-webpack-babel-starter-boilerplate/issues"
   },
-  "homepage": "https://github.com/Quotatis/website#readme",
+  "homepage": "https://github.com/7s4r/react-webpack-babel-starter-boilerplate#readme",
   "engines": {
     "node": ">=6.0.0"
   },

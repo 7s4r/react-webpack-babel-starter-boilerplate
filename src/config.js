@@ -1,5 +1,5 @@
 const config = {
-  packagesApiUrl: '//api.quotatis.dev/products/app_dev.php/packages'
+  packagesApiUrl: '//api.server.dev/packages'
 }
 
 export default config
