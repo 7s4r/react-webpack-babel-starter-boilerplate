@@ -44,7 +44,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-preset-stage-2": "^6.5.0",
     "bootstrap-sass": "^3.3.6",
-    "css-loader": "^0.23.1",
+    "css-loader": "^0.28.11",
     "eslint": "^2.8.0",
     "eslint-config-airbnb": "^8.0.0",
     "eslint-config-standard": "^5.2.0",
